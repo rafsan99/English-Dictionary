@@ -1,1 +1,1 @@
-This is one of my personal project by which I was learning django.
+This is an English Dictionary which is developed by Django .
